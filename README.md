@@ -10,7 +10,7 @@
 
 - **[BeMap](https://github.com/MaelQllt/BeMap)** : PWA 100 % client-side, carte interactive des BeReals (MapLibre GL), timeline, statistiques, repositionnement GPS et terrain 3D. [Démo en ligne](https://maelqllt.github.io/BeMap/)
 - **[PDI14_GeoCaptcha](https://github.com/MaelQllt/PDI14_GeoCaptcha)** : interface d'administration du GéoCaptcha de l'IGN (Vue), projet de groupe de 4.
-- **[projet_web](https://github.com/MaelQllt/projet_web)** : escape game cartographique (PHP, JavaScript, PostGIS), projet en duo.
+- **[projetweb](https://github.com/MaelQllt/projetweb)** : escape game cartographique « Drive to Escape » (PHP, JavaScript, PostGIS), projet en duo avec [Samy](https://github.com/SamyKr/projetweb).
 - **[ArbreENSG](https://github.com/MaelQllt/ArbreENSG)** : visualisation de l'arbre des familles de l'école.
 
 ## Expérience open source

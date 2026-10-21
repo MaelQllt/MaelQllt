@@ -19,9 +19,9 @@ Stage de fin d'études chez **Makina Corpus Territoires** (Toulouse) sur [TerraV
 
 ## Outils
 
-**Cartographie et SIG** : QGIS, PostGIS, GeoJSON, MapLibre GL, ArcGIS, Adobe Illustrator
-**Développement** : Python, JavaScript, React, Vue.js, Django REST Framework, PHP, SQL
-**Données et télédétection** : Python, R, séries temporelles satellitaires
-**Environnement** : Git, Docker, Linux
+- **Cartographie et SIG** : QGIS, PostGIS, GeoJSON, MapLibre GL, ArcGIS, Adobe Illustrator
+- **Développement** : Python, JavaScript, React, Vue.js, Django REST Framework, PHP, SQL
+- **Données et télédétection** : Python, R, séries temporelles satellitaires
+- **Environnement** : Git, Docker, Linux
 
 Je dessine aussi des cartes de randonnée des Pyrénées sous Illustrator sur mon temps libre.

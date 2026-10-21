@@ -4,7 +4,7 @@
 
 À la recherche d'un stage ou d'un premier emploi en cartographie, SIG et web mapping, à Paris, en Île-de-France ou à Toulouse, disponible immédiatement.
 
-[LinkedIn](https://www.linkedin.com/in/maelquillat)
+[Portfolio](https://maelqllt.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/maelquillat)
 
 ## Projets
 
